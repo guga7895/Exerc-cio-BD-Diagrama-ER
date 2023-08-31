@@ -1,2 +1,2 @@
-# Exerc-cio-BD-Diagrama-ER
+# Exercicio-BD-Diagrama-ER
 Diagrama Entidade-Relacionamento para um problema específico.
